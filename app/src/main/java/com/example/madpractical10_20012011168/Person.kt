@@ -1,4 +1,4 @@
-package com.example.google_maps_mad_prac_10_20012011169
+package com.example.madpractical10_20012011168
 
 import org.json.JSONObject
 import java.io.Serializable
