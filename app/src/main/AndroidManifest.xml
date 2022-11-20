@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.google_maps_mad_prac_10_20012011169">
+    package="com.example.madpractical10_20012011168">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
